@@ -1,0 +1,325 @@
+#navitem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navitem6 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.toast {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    margin-top: 45px;
+    background-color: green;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 30px;
+    /* Move toast to the top */
+    font-size: 17px;
+    opacity: 0;
+    transition: opacity 0.5s, visibility 0.5s;
+        background-color: green !important;
+    
+}
+
+.toast.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+.button05 {
+    background-color: black;
+    color: white;
+}
+
+.albg {
+    background-image: url("https://res.cloudinary.com/dme7n9g4n/image/upload/v1738466182/pic16_qbvwzd.jpg");
+    height: 500px;
+    width: 500px;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+}
+
+.munch-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dme7n9g4n/image/upload/v1738420861/pic5_ahddqq.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.banner-cap {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.custom-button {
+    color: white;
+    background-color: #871757;
+    width: 200px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.features-bg-container {
+    background-color: white;
+}
+
+.card1 {
+    background-color: #323f4b;
+    border-radius: 2px;
+    height: 210px;
+}
+
+.head2 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.head3 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.card3 {
+    background-color: white;
+    border-radius: 8px;
+    height: 35px;
+    padding: 5px;
+    margin: 2px;
+}
+
+
+.bg-container01 {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+
+.title {
+    background-color: #323f4b;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Roboto";
+    padding: 18px;
+}
+
+.message {
+    padding: 18px;
+}
+
+
+
+
+
+.button-1 {
+    background-color: #47a3f3;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: left;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 14px;
+}
+
+
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.button01 {
+    color: #323f4b;
+    background-color: white;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.button06 {
+    color: white;
+    background-color: #47a3f3;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.button02 {
+    color: #323f4b;
+    background-color: white;
+    width: 200px;
+    height: 35px;
+    border-radius: 2px;
+    margin: 10px;
+}
+
+.button03 {
+    color: white;
+    background-color: blue;
+    width: 200px;
+    height: 35px;
+    border-radius: 17px;
+    margin: 10px;
+}
+
+.para2 {
+
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.sign_in-bg-container {
+    background-color: lightblue;
+}
+
+.card {
+    background-color: lightblue;
+}
+
+.card2 {
+    background-color: white;
+}
+
+.follow-us-icon-container {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin-right: 15px;
+}
+
+.icon {
+    color: #323f4b;
+    font-size: 28px;
+
+}
+
+.detailed-view-bg-container {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
