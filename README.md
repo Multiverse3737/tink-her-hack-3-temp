@@ -1,34 +1,34 @@
-# [Project Name] 🎯
+# AuraShield🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Multiverse]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Aiswarya A G - College of Engineering Adoor
+- Member 2: Indheevara V -  College of Engineering Adoor
+- Member 3: Silpa P M-  College of Engineering Adoor
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://aurashield.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+AuraShield Your Emotional Support And Safety Companion
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Safety alert system and mental well being system specially designed for women.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Made a website which satisfies the mentioned above.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html,css,javascript
+  
+
+  
 
 For Hardware:
 - [List main components]
@@ -47,14 +47,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1k0kBBPFQeZRyG6EkeSqe0_2hLsgw4gBv?usp=sharing
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -84,16 +77,10 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Multiverse](https://drive.google.com/drive/folders/1k0kBBPFQeZRyG6EkeSqe0_2hLsgw4gBv?usp=drive_link)
 
 # Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+https://drive.google.com/drive/folders/1k0kBBPFQeZRyG6EkeSqe0_2hLsgw4gBv?usp=drive_link
 
 ---
 Made with ❤️ at TinkerHub
